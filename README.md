@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Guilherme Souza
 
-🔹 Desenvolvedor em formação, com foco em **Backend (Java)**  
+🔹 Desenvolvedor em formação, com foco em **Backend (Java, Python)**  
 🔹 Estudando programação, banco de dados e boas práticas de desenvolvimento  
-🔹 Interessado também em tecnologia, fitness e organização de rotina  
+🔹 Interessado também em tecnologia e organização de rotina  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/guilherme-souza-51a254385)
-[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contato-red)](ghxjava@gmail.com)
 
 ---
 
