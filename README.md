@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Souza
+# 👋 Olá, eu sou o Guilherme
 
 🔹 Desenvolvedor em formação, com foco em **Backend (Java, Python)**  
 🔹 Estudando programação, banco de dados e boas práticas de desenvolvimento  
