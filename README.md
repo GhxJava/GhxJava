@@ -1,4 +1,4 @@
 # Olá, eu sou o Guilherme 👋
-- 🔭 Atualmente estudando Backend com Java
-- 🌱 Também aprendendo calistenia e organização de rotina
-- 📫 Como me encontrar: seuemail@exemplo.com
+- 🔭 Atualmente estudando Backend com Java e python.
+- 🌱 A virtude de aprender algo novo todos os dias.
+- 📫 Como me encontrar: ghxjava@gmail.com
